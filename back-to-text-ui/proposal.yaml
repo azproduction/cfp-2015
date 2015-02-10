@@ -8,9 +8,9 @@ Session:
     | |_) | (_| | (__|   <  | || (_) |
     |____/ \__,_|\___|_|\_\  \__\___/
     |_   _|____  _| |_  | | | |_ _|
-      | |/ _ \ \/ / __| | | | || |    ┌------------------┐ ┌--------┐
-      | |  __/>  <| |_  | |_| || |    | Approve Proposal | | Reject |
-      |_|\___/_/\_\\__|  \___/|___|   └------------------┘ └--------┘
+      | |/ _ \ \/ / __| | | | || |
+      | |  __/>  <| |_  | |_| || |
+      |_|\___/_/\_\\__|  \___/|___|
 
     Paradoxically that, today it is easier to create GUI than Text UI.
     Developer has an arsenal of different GUI libraries and layout engines.
@@ -21,6 +21,10 @@ Session:
     In this talk I will show you how to ask browser layout engine for help,
     how to avoid slavery of DSL and build declarative Text UI using only
     web-technologies like HTML, JS, CSS and React.
+
+    ┌------------------┐ ┌--------┐
+    | Approve Proposal | | Reject |
+    └------------------┘ └--------┘
 
   Length: 30
   Tags:
