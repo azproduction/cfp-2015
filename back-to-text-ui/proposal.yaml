@@ -12,7 +12,7 @@ Session:
       | |  __/>  <| |_  | |_| || |
       |_|\___/_/\_\\__|  \___/|___|
 
-    Paradoxically that, today it is easier to create GUI than Text UI.
+    Paradoxically that today it is easier to create GUI than Text UI.
     Developer has an arsenal of different GUI libraries and layout engines.
     When one decides to write Terminal Text UI app he faces obstacles
     of Text UI DSL Library, imperative layouts, constantly increasing
@@ -54,7 +54,7 @@ Speaker1:
   email: i@azproduction.ru
   bio: >
     Mikhail is a full stack JavaScript developer at Productive Mobile and currently working on
-    project which transforms enterprise applications into mobile, in minutes. Before that time
+    project which transforms enterprise applications into mobile in minutes. Before that time
     he worked for Yandex and taught about 200 developers to write awesome JavaScript apps.
     He has many talks and lectures about JavaScript and related technotogies.
     On leisure time he takes pictures and tries to marry technology and photography in his
